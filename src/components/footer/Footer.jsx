@@ -18,7 +18,7 @@ const footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/ishita-kumari-82199b211/" rel="noreferrer" target="_blank" ><BsLinkedin/></a>
+        <a href="https://www.linkedin.com/in/ishita3513/" rel="noreferrer" target="_blank" ><BsLinkedin/></a>
         <a href="https://github.com/ishita3513?tab=repositories"  rel="noreferrer" target="_blank"><BsGithub/></a>
         <a href="https://www.instagram.com/ishi_3513/?hl=en" rel="noreferrer" target="_blank" ><BsInstagram/></a>
         <a href="https://leetcode.com/ishi_kumari/" rel="noreferrer" target="_blank" ><SiLeetcode/></a>
