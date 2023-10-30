@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-ishita-kumari/static/css/main.964b176d.css",
-    "main.js": "/portfolio-ishita-kumari/static/js/main.d651c7fc.js",
+    "main.js": "/portfolio-ishita-kumari/static/js/main.7f24966e.js",
     "static/media/me.jpg": "/portfolio-ishita-kumari/static/media/me.05e1a4ef44e717f5af82.jpg",
     "static/media/Resume.pdf": "/portfolio-ishita-kumari/static/media/Resume.81d0de5f1a75990b0845.pdf",
     "static/media/ishita.png": "/portfolio-ishita-kumari/static/media/ishita.5ee3e968e0822cd45d96.png",
@@ -12,10 +12,10 @@
     "static/media/gCloud.png": "/portfolio-ishita-kumari/static/media/gCloud.9b31ab12229e9325a953.png",
     "index.html": "/portfolio-ishita-kumari/index.html",
     "main.964b176d.css.map": "/portfolio-ishita-kumari/static/css/main.964b176d.css.map",
-    "main.d651c7fc.js.map": "/portfolio-ishita-kumari/static/js/main.d651c7fc.js.map"
+    "main.7f24966e.js.map": "/portfolio-ishita-kumari/static/js/main.7f24966e.js.map"
   },
   "entrypoints": [
     "static/css/main.964b176d.css",
-    "static/js/main.d651c7fc.js"
+    "static/js/main.7f24966e.js"
   ]
 }
